@@ -51,6 +51,7 @@ Once the hand has been tracked, the output data is post-processed to make it eas
 
 # 8. Output visualization:
 Finally, the results of the hand-tracking analysis are visualized as text on the user’s screen.
+
 ![image](https://github.com/user-attachments/assets/ad925ffb-1ab3-4790-8d2f-818322fd336f)
 
 ![image](https://github.com/user-attachments/assets/2fe1bad2-dd77-4f38-a52d-a51c62c490a4)
